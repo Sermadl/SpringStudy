@@ -63,6 +63,8 @@ Process finished with exit code 130 (interrupted by signal 2: SIGINT)
 
 프로젝트 실행 시 출력되는 화면
 
+저 스프링 글자를 보자마자 확 
+
 
 
 ```
@@ -84,7 +86,7 @@ public class HelloController {
 }
 ```
 
-Src/main/java/serma.hellospring/controller/HelloController에 작성한 코드
+컨트롤러 클래스에 작성한 코드
 
 
 
@@ -103,15 +105,14 @@ Src/main/java/serma.hellospring/controller/HelloController에 작성한 코드
 
 src/main/resources/hello.html에 작성한 코드
 
+<img width="589" alt="스크린샷 2022-01-14 오후 6 41 10" src="https://user-images.githubusercontent.com/89215928/149495982-582cdc10-1945-4ede-9665-264715321236.png">
 
 
-![스크린샷 2022-01-14 오후 6.41.10](/Users/serma/Documents/college/대기소/스크린샷 2022-01-14 오후 6.41.10.png)
+<img width="1440" alt="스크린샷 2022-01-14 오후 6 44 52" src="https://user-images.githubusercontent.com/89215928/149496002-ca2024e6-6752-4605-a3ea-d9f62a3d9814.png">
 
-
-
-![스크린샷 2022-01-14 오후 6.44.52](/Users/serma/Documents/college/대기소/스크린샷 2022-01-14 오후 6.44.52.png)
 
 실제로 링크로 들어가보면 잘 실행된 것을 확인할 수 있다.
+
 
 ---
 
