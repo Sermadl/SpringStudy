@@ -330,6 +330,7 @@ class MemberServiceTest {
 `@Repository, @Service anotation`을 해준 뒤에 `@Autowired`로 Controller에서 service와 repository 를<br/>
 연결할 수 있다.
 service와 repository, controller 등을 spring bean이라고 하는데 이를 등록하는 방식은 다음과 같다<br/><br/>
+
 1. 컴포넌트 스캔과 자동 의존관계 설정<br/>
 >위에서 `@Service` 등을 써준 것이 컴포넌트(`@Component`) 스캔, `@Autowired`를 써준 것이 자동 의존관계 설정이다.
 >`@Component` 를 사용하면 컴포넌트 스캔이 된다. `@Component` 가 포함된 `@Service, @Controller`(유일하게 하나만 등록해서 공유함) 등도 사용 가능
@@ -412,6 +413,8 @@ public class MemberService {
 ```
   
 </details>
+    
+    
 2. 자바 코드로 직접 스프링 빈 등록하기<br/>
     
 > `@Service, @repository, @Autowired` 이노테이션을 사용하지 않는다.
