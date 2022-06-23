@@ -413,6 +413,7 @@ public class MemberService {
   
 </details>
 2. 자바 코드로 직접 스프링 빈 등록하기<br/>
+    
 > `@Service, @repository, @Autowired` 이노테이션을 사용하지 않는다.
 >`@Bean` 으로 직접 스프링 빈을 등록한다
 
